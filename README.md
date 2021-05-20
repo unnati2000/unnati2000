@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Unnati Bamania
 #### I am a MERN stack web developer
-![I am a MERN stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I don't like coffee unlike other developers, familiar with a lot of web technologies. 
 
