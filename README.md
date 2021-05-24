@@ -1,3 +1,12 @@
+# Hi there 👋, my name is Unnati Bamania
+## I am a MERN stack web developer
+
+![](https://i.imgur.com/AISkwEs.png)
+
+I don't like coffee unlike other developers, familiar with a lot of web technologies. 
+
+Skills: MONGODB / NODEJS / REACT / JS / PHP / REST-API/ FIGMA/ PYTHON / C++ / HTML / CSS
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -8,15 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Canteen Management system
 - 📫 How to reach me: unnatibamania8@gmail.com  
 - ⚡ Fun fact: I want to live a monk lifestyle
-
-# Hi there 👋, my name is Unnati Bamania
-## I am a MERN stack web developer
-
-![](https://i.imgur.com/AISkwEs.png)
-
-I don't like coffee unlike other developers, familiar with a lot of web technologies. 
-
-Skills: MONGODB / NODEJS / REACT / JS / PHP / REST-API/ FIGMA/ PYTHON / C++ / HTML / CSS
 
 
 
