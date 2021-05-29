@@ -9,8 +9,6 @@ Skills: MONGODB / NODEJS / REACT / JS / PHP / REST-API/ FIGMA/ PYTHON / C++ / HT
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving myself everday
 - 🌱 I’m currently learning DSA, Advanced web dev and Life skills
 - 👯 I’m looking to collaborate on MERN projects
