@@ -1,5 +1,6 @@
-# Hi there 👋, my name is Unnati Bamania
-## I am a MERN stack web developer
+# Hi 🙏, my name is Unnati Bamania
+
+I'm a budding engineer specializing in Computer Science 👩‍💻 and also a full-stack web developer with hands-on experience in the MERN stack.
 
 ![](https://i.imgur.com/AISkwEs.png)
 
